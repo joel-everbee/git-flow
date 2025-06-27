@@ -1,1 +1,1 @@
-# test-git-flow
+# git-flow
